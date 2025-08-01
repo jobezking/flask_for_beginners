@@ -4,4 +4,4 @@ app = Flask(__name__) #creates Flask app instance. The __name__ argument tells F
                       #templates or static files
 @app.route("/")     #reroute decorator. Tells Flask to run home() function whenever user visits website root URL (/)
 def home():         #function that handles request to application's root URL
-    return "Hello, Flask!"
+    return "Jesus Christ is Lord"
