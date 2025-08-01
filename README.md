@@ -12,10 +12,10 @@ pip3 list
 pip3 install Flask  
 python3 \-m flask \--version  
 pip3 freeze \> requirements.txt  
-\#can be used for pip3 install \-r requirements.txt 
-\#
-\#To run app 
-export FLASK_APP=app.py 
-export FLASK_ENV=development
-flask run
-\#should see Running on http://127.0.0.1:5000 which you should open on your browser
+\#can be used for pip3 install \-r requirements.txt  
+\\\#  
+\\\#To run app
+export FLASK\_APP=app.py
+export FLASK\_ENV=development  
+flask run  
+\\\#should see Running on <http://127.0.0.1:5000> which you should open on your browser  
