@@ -1,4 +1,4 @@
-Flask Instructions  
+Flask Instructions. Presumes python3, python3-pip, python3-venv and Flask already installed. If not see https://github.com/jobezking/flask_for_beginners/blob/main/README.md
 \#Step 1: Define Project and App folders and create the app package  
 mkdir flask\_project; cd flask\_project; python3 \-m venv venv; source venv/bin/activate  
 touch [run.py](http://run.py)  
