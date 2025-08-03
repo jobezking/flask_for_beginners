@@ -1,6 +1,6 @@
 Flask Instructions  
 \#Step 1: Define Project and App folders and create the app package  
-mkdir flask\_project; cd flask\_project  
+mkdir flask\_project; cd flask\_project; python3 \-m venv venv; source venv/bin/activate  
 touch [run.py](http://run.py)  
 touch config.py  
 mkdir app  
