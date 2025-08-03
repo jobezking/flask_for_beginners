@@ -2,11 +2,9 @@ Flask Instructions. Presumes python3, python3-pip, python3-venv and Flask alread
 
 \#Step 1: Define Project and App folders and create the app package  
 mkdir flask\_project; cd flask\_project; python3 \-m venv venv; source venv/bin/activate  
-touch [run.py](http://run.py)  
-touch config.py  
+touch run.py config.py
 mkdir app  
-touch app/\_\_init\_\_.py  
-touch app/routes.py
+touch app/\_\_init\_\_.py app/routes.py
 
 \#Step 2: Initialize the Flask app. This initializes the app and imports your routes. You will need this for the app to work correctly when Flask scans your app folder  
 In app/\_\_init\_\_.py:  
