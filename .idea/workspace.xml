@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2b91b8b1-99eb-46f9-9b3d-db568c0bdf94" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_project/app/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/flask_project/app/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
