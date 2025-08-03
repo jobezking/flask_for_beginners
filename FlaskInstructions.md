@@ -25,9 +25,9 @@ def home():
     return render\_template(“index.html”)
 
 \#Step 4: Create the entry point. This file serves as your starting point. Instead of [app.py](http://app.py) you now run your application with python3 [run.py](http://run.py). Or if using Flask CLI:  
-export FLASK\_APP=[run.py](http://run.py)  
+export FLASK\_APP=run.py  
 flask run  
-Inside [app.py](http://app.py):  
+Inside run.py:  
 from app import app
 
 \#Step 5: configuration with [config.py](http://config.py). For better separation of concerns, keep config variables i.e. secret keys, database URIs etc. in [config.py](http://config.py). In [config.py](http://config.py):
